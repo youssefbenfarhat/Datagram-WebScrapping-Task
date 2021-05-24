@@ -1,0 +1,5 @@
+pip install selenium
+pip install BeautifulSoup4
+pip install webdriver-manager
+pip install xlwt
+pip install fake-useragent
